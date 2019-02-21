@@ -62,6 +62,7 @@ __# useful Docker functions__
        sudo docker $1 $c
    done
 }
+
 * alias cd.....="cd ../../../.." 
 * alias cd......="cd ../../../../.." 
 
